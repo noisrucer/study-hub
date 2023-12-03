@@ -18,3 +18,4 @@ Collection of study materials
 * [ByteByteGo 79 Engineering Blog List](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)
 * [Netflix Blog](https://netflixtechblog.com/)
 * [Uber Blog](https://www.uber.com/ko-KR/blog/seoul/engineering/)
+* [마켓컬리 기술 블로그](https://helloworld.kurly.com/blog/spring-rest-docs-guide/)
