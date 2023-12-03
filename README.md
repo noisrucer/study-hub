@@ -20,6 +20,7 @@ Collection of study materials
 * [API Stylebook Design Topics](https://apistylebook.com/design/topics/)
 * [Adidas API Guidelines](https://apistylebook.com/design/topics/)
 * [Azure API Design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 # Resources
 * [JoMingyu Study Hub](https://github.com/JoMingyu/Lets-Study)
