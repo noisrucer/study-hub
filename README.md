@@ -11,5 +11,10 @@ Collection of study materials
 * [Mozilla HTTP Guide](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
 * [그런 REST API로 괜찮은가](https://slides.com/eungjun/rest)
 
-## Resources
+# Resources
 * [JoMingyu Study Hub](https://github.com/JoMingyu/Lets-Study)
+
+# Engineering Blogs
+* [ByteByteGo 79 Engineering Blog List](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)
+* [Netflix Blog](https://netflixtechblog.com/)
+* [Uber Blog](https://www.uber.com/ko-KR/blog/seoul/engineering/)
