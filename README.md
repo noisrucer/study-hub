@@ -9,6 +9,7 @@ Collection of study materials
 ## API 설계
 * [Heroku HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
 * [Mozilla HTTP Guide](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
+* [그런 REST API로 괜찮은가](https://slides.com/eungjun/rest)
 
 ## Resources
 * [JoMingyu Study Hub](https://github.com/JoMingyu/Lets-Study)
